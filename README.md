@@ -1,2 +1,2 @@
 # Personal-Templete-HTML-CSS
-Templete cotain two pages using html and css
+Templete contain two pages using html and css
